@@ -8,7 +8,7 @@
       "name": "(gdb) Launch",
       "type": "cppdbg",
       "request": "launch",
-      "program": "${workspaceFolder}/bin/cfiles",
+      "program": "${workspaceFolder}/bin/files",
       "args": [
         // "6003",
         //"3",
